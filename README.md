@@ -1,11 +1,11 @@
 # CAR-REVIEW-ANALYSIS
 
-Problem Statement
- As people mostly use the manual process while looking for a car, and it’s not the perfect way they want.
+PROBLEM STATEMENT
+-As people mostly use the manual process while looking for a car, and it’s not the perfect way they want.
  People are not sure what to look, where to look and which one to select?
- Testing every car is not possible!
- Which car fits my budget?
- Unaware of specifics.
+-Testing every car is not possible!
+-Which car fits my budget?
+-Unaware of specifics.
 
 AIM AND OBJECTIVE
 - To produce a system that can help the user to select/sort any particular car based on initial reviews of people.

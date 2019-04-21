@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 25 15:06:06 2019
 
-@author: AbPa
+@author: ABhijeet Patil
 """
 
 from nltk.tokenize import sent_tokenize, word_tokenize
@@ -15,10 +15,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import copy
-#%%
 
+# Scraping reviews from edmunds.com
 driver = webdriver.Chrome('C:/Users/AbPa/chromedriver.exe')
 driver.get('https://forums.edmunds.com/discussion/2864/general/x/entry-level-luxury-performance-sedans/p715')
+
 #Creating empty data frame to store user_id, dates and comments from ~5K users.
 comments = pd.DataFrame(columns = ['Date','user_id','comments'])
 

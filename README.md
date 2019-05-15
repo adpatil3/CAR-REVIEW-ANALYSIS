@@ -18,6 +18,6 @@ AIM AND OBJECTIVE
 	- Cleaning the Reviews
 
 Analyzing
-1.	Top Attributes of Brands
-2.	Top 10 Brands
-3.	Aspirational Brands
+1. Top Attributes of Brands
+2. Top 10 Brands
+3. Aspirational Brands
